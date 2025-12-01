@@ -1,16 +1,21 @@
-## Hi there 👋
+**Hi, I'm Ahmed Saif (FoRReal) from Iraq.**
 
-<!--
-**xiforreal/xiforreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm a student starting my journey in programming.* I like working with computers, tech, and design, and I'm slowly turning those interests into real skills.
 
-Here are some ideas to get you started:
+**I'm here to learn, experiment, and improve—one project at a time.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also enjoy drawing, reading, gaming, and anything tech-related.
+
+This profile is where I share what I build as I grow :)
+
+**Contact**
+
+* Discord: `xiforreal`
+* Instagram: [xi.forreal](https://www.instagram.com/xi.forreal)
+* Telegram: [xiforreal](https://telegram.me/xiforreal)
+
+---
+
+<p align="center">
+  <i>The beautiful thing about learning is that no one can take it away from you.
+</p>
